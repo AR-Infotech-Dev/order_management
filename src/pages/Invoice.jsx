@@ -158,8 +158,8 @@ const Invoice = () => {
                         <FiClock className="text-xl text-slate-400" aria-hidden="true" />
                         </div> */}
 
-                <div className="overflow-x-auto">
-                    <table className="min-w-[900px] w-full">
+                <div className="overflow-y-auto">
+                    <table className="min-h-[900px] w-full">
                         <thead className="bg-slate-50 text-left text-xs font-semibold uppercase tracking-wide text-slate-500">
                             <tr>
                                 <th className="px-5 py-3">INVOICE NO</th>
